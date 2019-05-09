@@ -1,3 +1,5 @@
 == README
 
 This is the repository for the first alpha-blog app of the ROR practicing course.
+
+The Alpha Blog is live now, check it out [http://alpha-blog-egypt.herokuapp.com/]
